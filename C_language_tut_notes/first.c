@@ -5,7 +5,7 @@
 typedef long long ll;
 ll var = 20;
 
-typedef struct students
+typedef struct students 
 {
     char name[50];
     char branch[50];
